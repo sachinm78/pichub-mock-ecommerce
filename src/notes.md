@@ -3,6 +3,9 @@ https://picsum.photos/
 
 https://unsplash.com/
 
+# Images API URL:
+https://raw.githubusercontent.com/bobziroll/scrimba-react-bootcamp-images/master/images.json
+
 # GitHub repo of images and JSON file
 https://github.com/bobziroll/scrimba-react-bootcamp-images
 
