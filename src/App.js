@@ -2,6 +2,7 @@ import React from "react"
 import Header from "./components/Header"
 import Cart from "./pages/Cart"
 import Photos from "./pages/Photos"
+import styles from "./styles.css"
 
 function App() {    
     return (
