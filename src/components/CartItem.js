@@ -2,7 +2,11 @@ import React from "react"
 
 function CartItem({item}) {
     return (
-        <h2>{item.id}</h2>
+        <div className="cart-item">
+            <i className="ri-delete-bin-line"></i>
+            <img src={item.url} width="130px" />
+            <p>$1.99</p>
+        </div>
     )
 }
 
